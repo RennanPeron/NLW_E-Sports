@@ -13,7 +13,6 @@ header {
 }
 
 header img {
-    width: 7.5rem;
     border-radius: 50%;
 }
 
@@ -48,4 +47,5 @@ li img {
 
 .channel-list img {
     border-radius: 50%;
+    border: 1px solid #443E54;
 }
